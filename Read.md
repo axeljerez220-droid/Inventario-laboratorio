@@ -150,6 +150,8 @@ En próximas versiones se podrían agregar nuevas funciones como:
 
 ## Conclusión
 
-Este proyecto representa una oportunidad para aplicar nuestros conocimientos en un caso real, desarrollando una herramienta útil para la escuela.
 
-Además de mejorar la organización del laboratorio, nos permitió trabajar en equipo, resolver problemas y adquirir experiencia en el desarrollo de aplicaciones web. Esperamos que el sistema pueda seguir creciendo con el tiempo y que también pueda ser utilizado en otras instituciones educativas
+
+Además de mejorar la organización del laboratorio, nos permitió trabajar en equipo, resolver problemas y adquirir experiencia en el desarrollo de aplicaciones web. Esperamos que el sistema pueda seguir creciendo con el tiempo y que también pueda ser utilizado en otras instituciones educativas.
+
+Este proyecto representa una oportunidad para aplicar nuestros conocimientos en un caso real, desarrollando una herramienta útil para la escuela.
